@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NOTHING-amuh.aternos.me:13129",
+    "ip": "NOTHING-amuh.aternos.me",
     "port": 13129,
     "version": "1.21.1",
     "try-creative": false
